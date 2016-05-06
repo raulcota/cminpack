@@ -1,9 +1,9 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 9.00
-# Visual Studio 2005
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cminpack", "cminpack.vcproj", "{DFCA12EC-B869-49B9-920D-F14FFB48529F}"
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cminpack", "cminpack.vcxproj", "{DFCA12EC-B869-49B9-920D-F14FFB48529F}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cminpack_dll", "cminpack_dll.vcproj", "{7A715393-C1E6-41D2-9A47-DA8501440F71}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "cminpack_dll", "cminpack_dll.vcxproj", "{7A715393-C1E6-41D2-9A47-DA8501440F71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
